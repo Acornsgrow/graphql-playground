@@ -167,7 +167,7 @@
     "styled-jsx-postcss": "timsuchanek/styled-jsx-postcss#build3",
     "subscriptions-transport-ws": "^0.9.5",
     "utility-types": "^1.0.0",
-    "webpack-bundle-analyzer": "^2.9.2",
+    "webpack-bundle-analyzer": "^3.3.2",
     "zen-observable": "^0.7.1"
   },
   "lint-staged": {
